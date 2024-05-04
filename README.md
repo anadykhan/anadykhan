@@ -1,6 +1,6 @@
 [![MasterHead](https://64.media.tumblr.com/61d4fea89f86eb4cb5a7e616d9cd4832/tumblr_owi25v6uAo1r4gsiio1_1280.gif)](https://portfolio-main-one-ivory.vercel.app/)
 <h1 align="center">Hi 👋, I'm Aiyoun Khan anady</h1>
-<h3 align="center">A passionate full-stack developer and machine learning enthusiast from Banladesh</h3>
+<h3 align="center">A passionate full-stack developer and machine learning enthusiast from Bangladesh</h3>
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/w3APLkMuTX0AAAAC/tenor.gif">
 
