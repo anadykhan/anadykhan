@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Aiyoun Khan anady</h1>
 <h3 align="center">A passionate full-stack developer and machine learning enthusiast from Bangladesh</h3>
 
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/w3APLkMuTX0AAAAC/tenor.gif">
+<img align="right" alt="Coding" width="300" src="https://c.tenor.com/w3APLkMuTX0AAAAC/tenor.gif">
 
 - 🌱 I’m currently learning **Typescript**
 
